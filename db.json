@@ -1,0 +1,50 @@
+{
+  "turban": [
+    {
+      "id": 1,
+      "title": "Turban yang Elegan",
+      "subjudul":"Hijup",
+      "gambar":"https://cdn0-production-images-kly.akamaized.net/pclz5nxKRoyGm5MJVMqbDjC-DeI=/640x360/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2827921/original/061616200_1560430642-Tutorial_Hijab_Turban_yang_Elegan__Hijup_.JPG",
+      "kategori":"turban",
+      "langkah":[
+        "1. Gunakan ciput ninja terlebih dahulu",
+        "2. Letakkan pashmina di atas kepala dengan kedua sisi sama panjang",
+        "3. Silangkan di atas kepala",
+        "4. Tarik ke belakang dan ikat di bawah kunciran",
+        "5. Ikat dengan kencang, tak perlu pakai pentul atau peniti",
+        "6. Rapikan bagian kiri dan kanan hijab"
+        ]
+    },
+    {
+      "id": 2,
+      "title": "Simple Turban",
+      "subjudul":"Rima",
+      "gambar":"http://d3t543lkaz1xy.cloudfront.net/photo/58b3ce02f28ae5b83a588ed8_m",
+      "kategori":"turban",
+      "langkah":[
+        "1. Kenakan scarf di atas kepala dengan melipat bagian depan diatas dahi supaya lebih tebal dan memberikan kesan yang lebih rapi",
+        "2. Kemudian, kamu bisa memelintir bagian scarf yang lebih pendek supaya lebih mudah dililitkan",
+        "3. Gunakanlah bagian untuk mengikat cepolan di bagian belakang",
+        "4. Sematkan ujung scarf di bawah terikat kuat",
+        "5. Lalu ambil sisi scarf yang lebih panjang dan pindahkan ke pundak sebelah kiri",
+        "6. Setelah itu, gunakan sisi yang lebih panjang ini untuk membungkus bagian kepala depan"
+        ]
+    },
+    {
+      "id": 3,
+      "title": "Turban Pashmina Shifon",
+      "subjudul":"Destryandri",
+      "gambar":"https://www.jinglepuffbutik.com/image-upload/f8e46134183277831d11d0df2ee6e6df.jpg",
+      "kategori":"turban",
+      "langkah":[
+        "1. Kenakan kedua pashmina dengan kedua sisi sama panjang",
+        "2. Tarik kedua pashmina kebelakang leher dengan berlawanan",
+        "3. Tarik pashmina sisi kiri ke atas kepala secara menyilang",
+        "4. Rapihkan pashmina bagian belakang lalu gunakan jarum pentul",
+        "5. Kemudian tarik pashmina sisi kanan ke atas kepala secara menyilang",
+        "6. Rapihkan pashmina bagian belakang lalu gunakan jarum pentul",
+        "7. Sematkan aksesoris (bross) biar kelihatan cantik"
+        ]
+    }
+  ]
+}
